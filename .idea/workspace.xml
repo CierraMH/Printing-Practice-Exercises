@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40cdc1ae-6e04-4fe4-8749-0f3c05470069" name="Changes" comment="small changes">
+      <change afterPath="$PROJECT_DIR$/src/ClassObjectAndConstructorsPractice/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassObjectAndConstructorsPractice/BankAccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassObjectAndConstructorsPractice/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassObjectAndConstructorsPractice/ProductMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomerssExamples/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomerssExamples/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomOrSingles/Calculations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomOrSingles/Casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomOrSingles/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomOrSingles/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PWztieEEt9RQRt9bDXbcn8IxeY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/stone/IdeaProjects/Printing Practice Exercises/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Customerss" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BankAccountMain">
+    <configuration name="BankAccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassObjectAndConstructorsPractice.BankAccountMain" />
+      <module name="Printing Practice Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassObjectAndConstructorsPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChatBox.ChatBox" />
+      <module name="Printing Practice Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ChatBox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LastItem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysListsPractice.LastItem" />
+      <module name="Printing Practice Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysListsPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomerssExamples.Main" />
+      <module name="Printing Practice Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CustomerssExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysListsPractice.SumOfList" />
+      <module name="Printing Practice Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysListsPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BankAccountMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SumOfList" />
+        <item itemvalue="Application.ChatBox" />
+        <item itemvalue="Application.LastItem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40cdc1ae-6e04-4fe4-8749-0f3c05470069" name="Changes" comment="" />
+      <created>1683587848851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683587848851</updated>
+      <workItem from="1683587849900" duration="7810000" />
+      <workItem from="1683639064504" duration="21738000" />
+      <workItem from="1683729478451" duration="26596000" />
+      <workItem from="1683772351956" duration="1183000" />
+      <workItem from="1683814825443" duration="250000" />
+      <workItem from="1683831690797" duration="13301000" />
+    </task>
+    <task id="LOCAL-00001" summary="finished">
+      <created>1683592730760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683592730760</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finished...">
+      <created>1683593349074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683593349074</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CastingAssignment finished...">
+      <created>1683660493459</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683660493459</updated>
+    </task>
+    <task id="LOCAL-00004" summary="CastingAssignment finished...">
+      <created>1683660590759</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683660590759</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CastingAssignment finished...">
+      <created>1683660617039</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683660617039</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changed the order for the first two variables to match the assignment">
+      <created>1683660763950</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683660763950</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changed the order of the println to match the assignment">
+      <created>1683660833380</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683660833380</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Scanner Assignment complete">
+      <created>1683663830957</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683663830957</updated>
+    </task>
+    <task id="LOCAL-00009" summary="loop practice complete">
+      <created>1683668088911</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683668088911</updated>
+    </task>
+    <task id="LOCAL-00010" summary="All work complete">
+      <created>1683673773405</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683673773405</updated>
+    </task>
+    <task id="LOCAL-00011" summary="All work complete">
+      <created>1683673792142</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683673792142</updated>
+    </task>
+    <task id="LOCAL-00012" summary="All work complete">
+      <created>1683674418224</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683674418224</updated>
+    </task>
+    <task id="LOCAL-00013" summary="All work complete">
+      <created>1683768605341</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1683768605341</updated>
+    </task>
+    <task id="LOCAL-00014" summary="All work complete">
+      <created>1683768775721</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1683768775721</updated>
+    </task>
+    <task id="LOCAL-00015" summary="changed Month to month in Chat-bot">
+      <created>1683772649541</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1683772649541</updated>
+    </task>
+    <task id="LOCAL-00016" summary="small changes">
+      <created>1683773213104</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1683773213104</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished" />
+    <MESSAGE value="finished..." />
+    <MESSAGE value="CastingAssignment finished..." />
+    <MESSAGE value="changed the order for the first two variables to match the assignment" />
+    <MESSAGE value="changed the order of the println to match the assignment" />
+    <MESSAGE value="Scanner Assignment complete" />
+    <MESSAGE value="loop practice complete" />
+    <MESSAGE value="All work complete" />
+    <MESSAGE value="changed Month to month in Chat-bot" />
+    <MESSAGE value="small changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="small changes" />
+  </component>
+</project>
