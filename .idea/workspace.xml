@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40cdc1ae-6e04-4fe4-8749-0f3c05470069" name="Changes" comment="small changes">
-      <change afterPath="$PROJECT_DIR$/src/ClassObjectAndConstructorsPractice/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassObjectAndConstructorsPractice/BankAccountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassObjectAndConstructorsPractice/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassObjectAndConstructorsPractice/ProductMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomerssExamples/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomerssExamples/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomOrSingles/Calculations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomOrSingles/Casting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomOrSingles/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomOrSingles/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Printing Practice Exercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomerssExamples/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomerssExamples/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomerssExamples/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomerssExamples/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScannerExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +143,7 @@
       <workItem from="1683772351956" duration="1183000" />
       <workItem from="1683814825443" duration="250000" />
       <workItem from="1683831690797" duration="13301000" />
+      <workItem from="1683913727902" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="finished">
       <created>1683592730760</created>

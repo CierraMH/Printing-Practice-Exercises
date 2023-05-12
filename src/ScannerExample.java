@@ -28,8 +28,8 @@ public class ScannerExample {
 //        System.out.println("It is " + value2 + " that the sky is blue");
 
         //gathering the average number
-        int amountOfNumbers = 0;
-        int sum = 0;
+        // int amountOfNumbers = 0;
+        // int sum = 0;
 //
 //        while (true) {
 //            System.out.println("-- values: " + amountOfNumbers + ", sum: " + sum);
@@ -166,5 +166,5 @@ public class ScannerExample {
 //        }
 //
 //        System.out.println("Too many taters. Time to take a break!");
-    }
+
         }

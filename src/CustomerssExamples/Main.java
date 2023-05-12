@@ -1,16 +1,40 @@
 package CustomerssExamples;
 import java.util.ArrayList;
+import java.time.LocalDate;
+import java.time.Period;
 
 public class Main {
     public static void main(String[] args){
 
-        Customer kay = new Customer("Kay", 29);
-        System.out.println(kay);
+        ArrayList<Customer> customers = new ArrayList<>();
+        Customer kay = new Customer("Kay", LocalDate.of(2000, 4, 15));
+        Customer charlie = new Customer("Charlie", LocalDate.of(2005, 3, 11));
+        // System.out.println(kay);
+          // create store for customer to enter
+        Store abc = new Store("ABC Store", 21);
 
-        kay.changeAge();
-        System.out.println(kay);
-        kay.changeAge(5);
-        System.out.println(kay);
+          // logic to print if the customer is allowed to enter or not
+          if (abc.allowedToEnter(charlie)) {
+                System.out.println(charlie.getName() + " may enter the store");
+            } else {
+                System.out.println(charlie.getName() + " may not enter the store");
+            }
+              // logic to print if the customer is allowed to enter or not
+        if (abc.allowedToEnter(kay)) {
+                System.out.println(kay.getName() + " may enter the store");
+            } else {
+                System.out.println(kay.getName() + " may not enter the store");
+            }
+
+         // print the store's default text output to console via toString() method
+         System.out.println(abc);
+
+
+         //----------- The first day details --------------
+        // kay.changeAge();
+        // System.out.println(kay);
+        // kay.changeAge(5);
+        // System.out.println(kay);
 //        Customer customer2 = new Customer("Wanda");
 //        Customer customer3 = new Customer("Larry");
 
@@ -22,7 +46,7 @@ public class Main {
 //        customer3.printCustomer();
 //        System.out.println(kay.toString());
 
-        ArrayList<Customer> customers = new ArrayList<>();
+      
 //        Customer hector = new Customer("Hector");
 //        // adding the customer object to the list
 //        customers.add(hector);
