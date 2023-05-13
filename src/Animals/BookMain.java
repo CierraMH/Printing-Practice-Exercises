@@ -25,7 +25,7 @@ public class BookMain {
             Book book = new Book(title, pageInput, yearInput);
             books.add(book);
         }
-        System.out.println("What information will be printed? \n(title, publicationYear,TotalPages, or everything) \nNote: Please enter the details as written here to gather details.");
+        System.out.println("What information would you like to be printed? \nNote: Please enter the details as written here to gather the information wanted (title, author, publicationYear,TotalPages, or everything).");
         String userInput = scanner.nextLine();
 
         if (userInput.equals("title")) {
@@ -41,22 +41,18 @@ public class BookMain {
             for (Book Book : books){
             Book.getNumOfPages();
             }
+        } else if (userInput.equals("author")) {
+            for (Book Book : books){
+            Book.getAuthor();
+            }
         } else if(userInput.equals("everything")){
             for (Book Book : books){
                 Book.getTitle();
                 Book.getNumOfPages();
                 Book.getPublicationYear();
+                Book.getAuthor();
                 System.out.println(Book);
             }
         }
-
-
-        // for (Book Book : books){
-        //     Book.getTitle();
-        //     Book.getNumOfPages();
-        //     Book.getPublicationYear();
-        //     System.out.println(Book);
-        // }
     }
-    
 }

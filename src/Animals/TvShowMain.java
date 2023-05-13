@@ -20,14 +20,19 @@ public class TvShowMain {
 
             System.out.println("What is the genre? ");
             String genreName = scanner.nextLine();
+
+            System.out.println("How many minutes are each episode? " );
+            int userMinInput = Integer.valueOf(scanner.nextLine());
             
             TvShow show = new TvShow(tvName, userEpInput, genreName);
             shows.add(show);
+            shows.add(new TvShow(tvName, userEpInput, genreName, userMinInput));
         }
         for (TvShow tvShow : shows){
             tvShow.getShowName();
             tvShow.getNumOfEps();
             tvShow.getGenre();
+            tvShow.getTime();
             System.out.println(tvShow);
         }
     }

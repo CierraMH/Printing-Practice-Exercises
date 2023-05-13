@@ -19,15 +19,19 @@ public class Main {
             } 
             System.out.println("Is it a dog? Yes or No: " );
             Boolean isThisADog = scanner.nextLine().equals("Yes");
+            System.out.println("What is your animal tone? " );
+            String color = scanner.nextLine();
+
             
             Animal animal1 = new Animal(name, isThisADog);
             animals.add(animal1);
-
+            animals.add(new Animal(name, isThisADog, color));
         }
 
          for (Animal Animal : animals){
             Animal.getName();
             Animal.isThisADog();
+            Animal.getColor();
             System.out.println(Animal);
          }
     }
